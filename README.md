@@ -46,5 +46,4 @@ O site é composto por páginas como:
 <img width="1882" height="882" alt="image" src="https://github.com/user-attachments/assets/fd2bab9c-cefd-40aa-b387-309eca7c7716" />
 
 
-```markdown
-![Prévia do site](imagens/screenshot-home.png)
+
